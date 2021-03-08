@@ -1,0 +1,45 @@
+.videoparent{
+
+  width: 100%;
+  height: 500px;
+  background-color: cornflowerblue;
+}
+.logonader  a{
+  color: white!important;
+  background-color: cornflowerblue;
+  border: 1px solid black !important;
+}
+
+h1 span{
+  color: cornflowerblue;
+}
+.blockone{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img{
+  width: 100%;
+  height: 50%;
+  margin-top: 20px;
+  text-align: center;
+ 
+
+}
+.videostyle{
+
+position: relative;
+top: 50%;
+left: 50%;
+
+transform: translate(-50%,-50%);
+
+
+} 
+
+
+
+
